@@ -4,9 +4,8 @@ import android.app.Activity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.data.network.model.CovidCases
+import com.data.CovidCases
 import com.data.network.model.CovidDayDetails
-import com.data.network.model.ModelCovid
 import com.example.kotlin.argumentativo.R
 import com.example.kotlin.argumentativo.databinding.ActivityMainBinding
 import com.framework.adapters.CovidAdapter

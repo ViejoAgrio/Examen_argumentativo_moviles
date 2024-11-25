@@ -1,6 +1,8 @@
-package com.data.network.model
+package com.data
 
 import android.content.Context
+import com.data.network.model.CovidDayDetails
+import com.data.network.model.ModelCovid
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 
