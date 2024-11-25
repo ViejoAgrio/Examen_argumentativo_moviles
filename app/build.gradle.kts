@@ -76,4 +76,6 @@ dependencies {
     implementation(libs.logging.interceptor)
 
     implementation (libs.androidx.databinding.runtime)
+
+    implementation (libs.gson)
 }
